@@ -1,0 +1,1 @@
+controller_joint_names: ['', 'flw_j', 'rlw_j', 'rrw_j', 'frw_j', 'lidar_j', 'radar_j', ]
